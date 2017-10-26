@@ -2,7 +2,7 @@ fn main(){
 
     #[macro_use] extern crate text_io;
 
-
+//testing
     let mut s = String::new();
     scan!("{} is your name", s);
     let mut age = i32;
